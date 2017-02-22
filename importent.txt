@@ -4,10 +4,10 @@ git init
 git clone LINK
 git remote add origin LINK
 git pull origin master
-git add .
 
 git status
 git log
 
+git add .
 git commit -m "komment"
 git push origin master
