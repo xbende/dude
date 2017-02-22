@@ -1,0 +1,10 @@
+This is a very importent text!
+
+git init
+git clone LINK
+git pull origin master
+git add .
+git commit -m "komment"
+git remote add origin LINK
+git push origin master
+ 
