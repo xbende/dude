@@ -8,6 +8,9 @@ git pull origin master
 git status
 git log
 
+git branch NUM
+git checkout NUM
+
 git add .
 git commit -m "komment"
 git push origin master
